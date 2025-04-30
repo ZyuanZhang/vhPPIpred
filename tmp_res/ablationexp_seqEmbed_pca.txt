@@ -1,0 +1,6 @@
+TestI:1	ModelName:xgboost	FeatDelete:seqEmbed_pca	0.8668	0.3797	0.7343	0.5006	0.8624	0.4917
+TestI:2	ModelName:xgboost	FeatDelete:seqEmbed_pca	0.8740	0.3984	0.7561	0.5218	0.8932	0.5997
+TestI:3	ModelName:xgboost	FeatDelete:seqEmbed_pca	0.8540	0.3349	0.6144	0.4335	0.8379	0.4657
+TestI:4	ModelName:xgboost	FeatDelete:seqEmbed_pca	0.8494	0.3423	0.7125	0.4625	0.8747	0.5420
+TestI:5	ModelName:xgboost	FeatDelete:seqEmbed_pca	0.8577	0.3598	0.7251	0.4810	0.8787	0.4871
+TestI:6	ModelName:xgboost	FeatDelete:seqEmbed_pca	0.8712	0.3885	0.7259	0.5061	0.8812	0.5831

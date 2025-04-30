@@ -1,0 +1,6 @@
+TestI:1	ModelName:xgboost	FeatDelete:pssmEmbed_pca	0.9294	0.5846	0.7703	0.6647	0.9297	0.7610
+TestI:2	ModelName:xgboost	FeatDelete:pssmEmbed_pca	0.9178	0.5385	0.6681	0.5963	0.9143	0.6407
+TestI:3	ModelName:xgboost	FeatDelete:pssmEmbed_pca	0.8901	0.4346	0.6932	0.5342	0.9062	0.5501
+TestI:4	ModelName:xgboost	FeatDelete:pssmEmbed_pca	0.8848	0.4234	0.7385	0.5382	0.9203	0.7134
+TestI:5	ModelName:xgboost	FeatDelete:pssmEmbed_pca	0.8897	0.4394	0.7754	0.5609	0.9208	0.6995
+TestI:6	ModelName:xgboost	FeatDelete:pssmEmbed_pca	0.9130	0.5151	0.7276	0.6032	0.9129	0.6807

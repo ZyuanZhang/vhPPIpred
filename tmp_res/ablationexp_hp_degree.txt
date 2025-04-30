@@ -1,0 +1,6 @@
+TestI:1	ModelName:xgboost	FeatDelete:hp_degree	0.9118	0.5124	0.6060	0.5553	0.8896	0.6124
+TestI:2	ModelName:xgboost	FeatDelete:hp_degree	0.9083	0.4958	0.5407	0.5172	0.8723	0.4790
+TestI:3	ModelName:xgboost	FeatDelete:hp_degree	0.8952	0.4289	0.4602	0.4440	0.8654	0.4183
+TestI:4	ModelName:xgboost	FeatDelete:hp_degree	0.8882	0.4247	0.6479	0.5131	0.9027	0.6457
+TestI:5	ModelName:xgboost	FeatDelete:hp_degree	0.8669	0.3725	0.6781	0.4808	0.8762	0.5701
+TestI:6	ModelName:xgboost	FeatDelete:hp_degree	0.9307	0.6161	0.6295	0.6227	0.9015	0.6951

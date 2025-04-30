@@ -1,0 +1,6 @@
+TestI:1	ModelName:xgboost	FeatDelete:no_del	0.9192	0.5394	0.7628	0.6319	0.9290	0.7554
+TestI:2	ModelName:xgboost	FeatDelete:no_del	0.9239	0.5663	0.6949	0.6240	0.9224	0.6654
+TestI:3	ModelName:xgboost	FeatDelete:no_del	0.8887	0.4307	0.6957	0.5321	0.9078	0.5536
+TestI:4	ModelName:xgboost	FeatDelete:no_del	0.8836	0.4225	0.7653	0.5444	0.9218	0.7208
+TestI:5	ModelName:xgboost	FeatDelete:no_del	0.8845	0.4251	0.7687	0.5475	0.9251	0.6881
+TestI:6	ModelName:xgboost	FeatDelete:no_del	0.9131	0.5154	0.7284	0.6037	0.9171	0.6972

@@ -1,0 +1,6 @@
+TestI:1	ModelName:xgboost	FeatDelete:vh_simi	0.9117	0.5098	0.7427	0.6046	0.9235	0.7390
+TestI:2	ModelName:xgboost	FeatDelete:vh_simi	0.9211	0.5536	0.6840	0.6119	0.9146	0.6644
+TestI:3	ModelName:xgboost	FeatDelete:vh_simi	0.8913	0.4390	0.7058	0.5413	0.9115	0.5801
+TestI:4	ModelName:xgboost	FeatDelete:vh_simi	0.8858	0.4273	0.7510	0.5447	0.9167	0.7107
+TestI:5	ModelName:xgboost	FeatDelete:vh_simi	0.8855	0.4286	0.7795	0.5531	0.9221	0.6821
+TestI:6	ModelName:xgboost	FeatDelete:vh_simi	0.9265	0.5761	0.7234	0.6414	0.9125	0.6880
