@@ -6,7 +6,7 @@ The protein-protein interactions (PPIs) between viruses and human play crucial r
 
 
 ## Architecture of vhPPIpred
-![Architecture of vhPPIpred](./FigForPaper/Fig1A.png)
+![Architecture of vhPPIpred](./FigForPaper/fig1_a.png)
 
 ## Pipleline for dataset construction
 ![Pipline for benchmark dataset construction](./FigForPaper/Fig1B.png)
