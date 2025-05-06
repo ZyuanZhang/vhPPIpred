@@ -1,4 +1,4 @@
-# vhPPIpred
+<img src="./FigForPaper/logo.png" width="300">
 
 **Improved prediction of virus-human protein-protein interactions by incorporating network topology and viral molecular mimicry**
 
