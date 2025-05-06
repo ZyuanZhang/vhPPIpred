@@ -53,12 +53,12 @@ We computed similarity between virus proteins and neighbor proteins with `./scri
 
 ## Benchmark dataset construction
 ```python
-data_process.html
+data_process.ipynb
 ```
 
 ## Training, validating and testing
 ```python
-vhppipred_train_validate_test.html
+vhppipred_train_validate_test.ipynb
 ```
 
 ## Apply vhPPIpred to prediction
