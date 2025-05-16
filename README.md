@@ -1,8 +1,9 @@
 <img src="./FigForPaper/logo.png" width="300">
 
 **Improved prediction of virus-human protein-protein interactions by incorporating network topology and viral molecular mimicry**
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 The protein-protein interactions (PPIs) between viruses and human play crucial roles in viral infections. Although numerous computational approaches have been proposed for predicting virus-human PPIs, their performances remain suboptimal and may be overestimated due to the lack of benchmark dataset. To address these limitations, we first constructed a carefully curated benchmark dataset, ensuring non-overlapped PPIs and minimum sequences similarity of both human and viral proteins in the training and test sets. Based on this dataset, we developed vhPPIpred, a machine learning-based prediction method that not only incorporated sequence embedding and evolutionary information but also leveraged network topology and viral molecular mimicry of human PPIs. Comparative experiments demonstrated that vhPPIpred outperformed five state-of-the-art methods on both our benchmark dataset and three independent datasets, as well as the identification of potential human viral receptors. Further analysis revealed that vhPPIpred achieved high computational efficiency, requiring relatively low runtime and memory. In summary, this study provides a valuable benchmark dataset and an effective tool for virus-human PPI prediction, with potential applications in antiviral drug discovery and host-pathogen interaction research.
+</p>
 
 
 ## Architecture of vhPPIpred
@@ -72,6 +73,10 @@ python vhppipred_predict.py
 FigureForPaper.ipynb
 ```
 
+## Cite
+```
+
+```
 
 
 
