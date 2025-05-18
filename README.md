@@ -72,7 +72,7 @@ python vhppipred_predict.py
 FigureForPaper.ipynb
 ```
 
-## Cite
+## Citation
 ```
 
 ```
