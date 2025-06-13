@@ -1,0 +1,5506 @@
+START:  Tue Jun  3 11:06:17 2025
+
+=== Repeat 1/5 ===
+Training Fold 1/5...
+Train:Val=136/35
+Training Fold 2/5...
+Train:Val=137/34
+Training Fold 3/5...
+Train:Val=137/34
+Training Fold 4/5...
+Train:Val=137/34
+Training Fold 5/5...
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Training Fold 1/5...
+Train:Val=136/35
+Training Fold 2/5...
+Train:Val=137/34
+Training Fold 3/5...
+Train:Val=137/34
+Training Fold 4/5...
+Train:Val=137/34
+Training Fold 5/5...
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Training Fold 1/5...
+Train:Val=136/35
+Training Fold 2/5...
+Train:Val=137/34
+Training Fold 3/5...
+Train:Val=137/34
+Training Fold 4/5...
+Train:Val=137/34
+Training Fold 5/5...
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Training Fold 1/5...
+Train:Val=136/35
+Training Fold 2/5...
+Train:Val=137/34
+Training Fold 3/5...
+Train:Val=137/34
+Training Fold 4/5...
+Train:Val=137/34
+Training Fold 5/5...
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Training Fold 1/5...
+Train:Val=136/35
+Training Fold 2/5...
+Train:Val=137/34
+Training Fold 3/5...
+Train:Val=137/34
+Training Fold 4/5...
+Train:Val=137/34
+Training Fold 5/5...
+Train:Val=137/34
+END:  Tue Jun  3 11:11:56 2025
+START:  Tue Jun  3 11:14:13 2025
+
+=== Test Repeat 1/5 ===
+[Repeat 1] acc=0.7442, prec=0.5556, rec=0.4167, f1=0.4762, auroc=0.8091, auprc=0.6278
+
+=== Test Repeat 2/5 ===
+[Repeat 2] acc=0.8140, prec=0.7000, rec=0.5833, f1=0.6364, auroc=0.8333, auprc=0.6500
+
+=== Test Repeat 3/5 ===
+[Repeat 3] acc=0.8837, prec=0.8889, rec=0.6667, f1=0.7619, auroc=0.9543, auprc=0.8873
+
+=== Test Repeat 4/5 ===
+[Repeat 4] acc=0.8140, prec=0.6667, rec=0.6667, f1=0.6667, auroc=0.8548, auprc=0.6669
+
+=== Test Repeat 5/5 ===
+[Repeat 5] acc=0.8605, prec=0.8750, rec=0.5833, f1=0.7000, auroc=0.7876, auprc=0.7142
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.8233
+precision: 0.7372
+recall: 0.5833
+f1_score: 0.6482
+auroc: 0.8478
+auprc: 0.7092
+END:  Tue Jun  3 11:15:11 2025
+START:  Tue Jun  3 11:28:53 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 11:29:21 2025
+START:  Tue Jun  3 11:40:42 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.5000, rec=0.1667, f1=0.2500, auroc=0.8199, auprc=0.6031
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8140, prec=0.7500, rec=0.5000, f1=0.6000, auroc=0.8172, auprc=0.7046
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7674, prec=0.6667, rec=0.3333, f1=0.4444, auroc=0.7849, auprc=0.7055
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.8140, prec=0.8333, rec=0.4167, f1=0.5556, auroc=0.7312, auprc=0.6424
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7442, prec=0.6000, rec=0.2500, f1=0.3529, auroc=0.6156, auprc=0.5400
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7721
+precision: 0.6700
+recall: 0.3333
+f1_score: 0.4406
+auroc: 0.7538
+auprc: 0.6391
+END:  Tue Jun  3 11:40:47 2025
+START:  Tue Jun  3 11:42:07 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7674, prec=0.7500, rec=0.2500, f1=0.3750, auroc=0.7796, auprc=0.6144
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8372, prec=0.7778, rec=0.5833, f1=0.6667, auroc=0.8333, auprc=0.7638
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7674, prec=0.6667, rec=0.3333, f1=0.4444, auroc=0.8199, auprc=0.7102
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.8140, prec=0.8333, rec=0.4167, f1=0.5556, auroc=0.7581, auprc=0.6536
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7209, prec=0.5000, rec=0.1667, f1=0.2500, auroc=0.6425, auprc=0.5291
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7814
+precision: 0.7056
+recall: 0.3500
+f1_score: 0.4583
+auroc: 0.7667
+auprc: 0.6542
+START:  Tue Jun  3 12:57:59 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7930
+precision: 0.6659
+recall: 0.5138
+f1_score: 0.5693
+auroc: 0.8185
+auprc: 0.6369
+END:  Tue Jun  3 13:00:07 2025
+START:  Tue Jun  3 13:07:14 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7627
+precision: 0.6038
+recall: 0.3640
+f1_score: 0.4337
+auroc: 0.7705
+auprc: 0.5906
+END:  Tue Jun  3 13:07:25 2025
+START:  Tue Jun  3 13:14:55 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:15:07 2025
+START:  Tue Jun  3 13:16:56 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:17:11 2025
+START:  Tue Jun  3 13:17:51 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:18:03 2025
+START:  Tue Jun  3 13:18:59 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:19:13 2025
+START:  Tue Jun  3 13:19:47 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:19:58 2025
+START:  Tue Jun  3 13:21:33 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7684
+precision: 0.6248
+recall: 0.2884
+f1_score: 0.3766
+auroc: 0.7847
+auprc: 0.6358
+END:  Tue Jun  3 13:21:38 2025
+START:  Tue Jun  3 13:26:37 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.7419, auprc=0.6108
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8548, auprc=0.7627
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7907, prec=0.8000, rec=0.3333, f1=0.4706, auroc=0.8468, auprc=0.7148
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7442, prec=0.6000, rec=0.2500, f1=0.3529, auroc=0.6667, auprc=0.4225
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.8522, auprc=0.7904
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7628
+precision: 0.6800
+recall: 0.2000
+f1_score: 0.3018
+auroc: 0.7925
+auprc: 0.6602
+END:  Tue Jun  3 13:26:40 2025
+START:  Tue Jun  3 13:29:31 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:29:44 2025
+START:  Tue Jun  3 13:34:56 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:35:08 2025
+START:  Tue Jun  3 13:37:49 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:38:01 2025
+START:  Tue Jun  3 13:38:29 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:38:45 2025
+START:  Tue Jun  3 13:41:30 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:41:42 2025
+START:  Tue Jun  3 13:43:35 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7298
+precision: 0.5350
+recall: 0.2302
+f1_score: 0.3020
+auroc: 0.7238
+auprc: 0.4997
+END:  Tue Jun  3 13:43:45 2025
+START:  Tue Jun  3 13:44:55 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7442, prec=0.6000, rec=0.2500, f1=0.3529, auroc=0.6935, auprc=0.5240
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7907, prec=0.7143, rec=0.4167, f1=0.5263, auroc=0.8629, auprc=0.7257
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7907, prec=0.6667, rec=0.5000, f1=0.5714, auroc=0.7849, auprc=0.5987
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.6977, prec=0.3333, rec=0.0833, f1=0.1333, auroc=0.6935, auprc=0.4213
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.6744, prec=0.3750, rec=0.2500, f1=0.3000, auroc=0.7554, auprc=0.5103
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7395
+precision: 0.5379
+recall: 0.3000
+f1_score: 0.3768
+auroc: 0.7581
+auprc: 0.5560
+END:  Tue Jun  3 13:44:58 2025
+START:  Tue Jun  3 13:47:32 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:47:49 2025
+START:  Tue Jun  3 13:49:24 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:49:40 2025
+START:  Tue Jun  3 13:50:25 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:50:42 2025
+START:  Tue Jun  3 13:52:36 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7416
+precision: 0.3600
+recall: 0.0591
+f1_score: 0.1001
+auroc: 0.7912
+auprc: 0.6635
+END:  Tue Jun  3 13:52:45 2025
+START:  Tue Jun  3 13:54:05 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7264
+precision: 0.0400
+recall: 0.0040
+f1_score: 0.0073
+auroc: 0.7901
+auprc: 0.6672
+END:  Tue Jun  3 13:54:14 2025
+START:  Tue Jun  3 13:55:14 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7252
+precision: 0.0000
+recall: 0.0000
+f1_score: 0.0000
+auroc: 0.7888
+auprc: 0.6669
+END:  Tue Jun  3 13:55:23 2025
+START:  Tue Jun  3 13:56:34 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 13:56:57 2025
+START:  Tue Jun  3 13:59:52 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:00:09 2025
+START:  Tue Jun  3 14:00:58 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:01:14 2025
+START:  Tue Jun  3 14:01:46 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:02:04 2025
+START:  Tue Jun  3 14:09:25 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:09:42 2025
+START:  Tue Jun  3 14:11:13 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7264
+precision: 0.0400
+recall: 0.0040
+f1_score: 0.0073
+auroc: 0.7901
+auprc: 0.6672
+END:  Tue Jun  3 14:11:23 2025
+START:  Tue Jun  3 14:12:36 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7392, auprc=0.5608
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.9194, auprc=0.8218
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8817, auprc=0.7902
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7849, auprc=0.6456
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8602, auprc=0.7838
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7209
+precision: 0.0000
+recall: 0.0000
+f1_score: 0.0000
+auroc: 0.8371
+auprc: 0.7204
+END:  Tue Jun  3 14:12:41 2025
+START:  Tue Jun  3 14:14:50 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6532, auprc=0.5709
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8575, auprc=0.7791
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.9328, auprc=0.8753
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8441, auprc=0.7334
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8253, auprc=0.7667
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7209
+precision: 0.0000
+recall: 0.0000
+f1_score: 0.0000
+auroc: 0.8226
+auprc: 0.7451
+END:  Tue Jun  3 14:14:54 2025
+START:  Tue Jun  3 14:16:07 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7366, auprc=0.5589
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.9140, auprc=0.8281
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8817, auprc=0.7853
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7581, auprc=0.5852
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8575, auprc=0.7802
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7302
+precision: 0.2000
+recall: 0.0333
+f1_score: 0.0571
+auroc: 0.8296
+auprc: 0.7076
+END:  Tue Jun  3 14:16:10 2025
+START:  Tue Jun  3 14:17:45 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7416
+precision: 0.3600
+recall: 0.0591
+f1_score: 0.1001
+auroc: 0.7912
+auprc: 0.6635
+END:  Tue Jun  3 14:17:55 2025
+START:  Tue Jun  3 14:23:54 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:24:08 2025
+START:  Tue Jun  3 14:27:57 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:28:09 2025
+START:  Tue Jun  3 14:29:05 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:29:17 2025
+START:  Tue Jun  3 14:30:36 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:30:54 2025
+START:  Tue Jun  3 14:31:27 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:31:39 2025
+START:  Tue Jun  3 14:33:00 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:33:12 2025
+START:  Tue Jun  3 14:34:22 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7498
+precision: 0.5485
+recall: 0.2036
+f1_score: 0.2747
+auroc: 0.7130
+auprc: 0.5348
+END:  Tue Jun  3 14:34:27 2025
+START:  Tue Jun  3 14:36:36 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7674, prec=0.7500, rec=0.2500, f1=0.3750, auroc=0.7634, auprc=0.5774
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7500, auprc=0.5069
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7527, auprc=0.4455
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8118, auprc=0.6820
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.8118, auprc=0.6877
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7581
+precision: 0.6500
+recall: 0.1667
+f1_score: 0.2607
+auroc: 0.7780
+auprc: 0.5799
+END:  Tue Jun  3 14:36:39 2025
+START:  Tue Jun  3 14:38:16 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:38:29 2025
+START:  Tue Jun  3 14:41:32 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7475
+precision: 0.6287
+recall: 0.3413
+f1_score: 0.4173
+auroc: 0.7559
+auprc: 0.5765
+END:  Tue Jun  3 14:41:37 2025
+START:  Tue Jun  3 14:43:06 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7442, prec=0.6000, rec=0.2500, f1=0.3529, auroc=0.8280, auprc=0.6545
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7442, prec=0.6000, rec=0.2500, f1=0.3529, auroc=0.7661, auprc=0.4633
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7674, prec=0.7500, rec=0.2500, f1=0.3750, auroc=0.7769, auprc=0.5102
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=0.5833, rec=0.5833, f1=0.5833, auroc=0.8172, auprc=0.6809
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.8280, auprc=0.7061
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7674
+precision: 0.7067
+recall: 0.3333
+f1_score: 0.4328
+auroc: 0.8032
+auprc: 0.6030
+END:  Tue Jun  3 14:43:08 2025
+START:  Tue Jun  3 14:45:05 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:45:18 2025
+START:  Tue Jun  3 14:48:50 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 14:49:12 2025
+START:  Tue Jun  3 14:51:09 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7405
+precision: 0.4073
+recall: 0.1453
+f1_score: 0.2032
+auroc: 0.7668
+auprc: 0.6007
+END:  Tue Jun  3 14:51:15 2025
+START:  Tue Jun  3 14:54:30 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8306, auprc=0.6538
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7661, auprc=0.4999
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7442, prec=0.6667, rec=0.1667, f1=0.2667, auroc=0.7876, auprc=0.5209
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8306, auprc=0.7042
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8387, auprc=0.7411
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7349
+precision: 0.3333
+recall: 0.0667
+f1_score: 0.1105
+auroc: 0.8108
+auprc: 0.6240
+END:  Tue Jun  3 14:54:33 2025
+START:  Tue Jun  3 15:01:57 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 15:02:10 2025
+START:  Tue Jun  3 15:05:19 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7733
+precision: 0.6479
+recall: 0.4333
+f1_score: 0.5033
+auroc: 0.7922
+auprc: 0.5764
+END:  Tue Jun  3 15:05:24 2025
+START:  Tue Jun  3 15:08:36 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.8140, prec=0.7500, rec=0.5000, f1=0.6000, auroc=0.9032, auprc=0.6874
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8140, prec=0.7500, rec=0.5000, f1=0.6000, auroc=0.8065, auprc=0.5323
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.4167, f1=0.4545, auroc=0.7715, auprc=0.5459
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=0.6667, rec=0.5000, f1=0.5714, auroc=0.8280, auprc=0.6951
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8605, prec=1.0000, rec=0.5000, f1=0.6667, auroc=0.9597, auprc=0.9099
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.8000
+precision: 0.7333
+recall: 0.4833
+f1_score: 0.5785
+auroc: 0.8538
+auprc: 0.6741
+END:  Tue Jun  3 15:08:39 2025
+START:  Tue Jun  3 15:10:03 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.5000, rec=0.1667, f1=0.2500, auroc=0.8817, auprc=0.6473
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8140, prec=0.7500, rec=0.5000, f1=0.6000, auroc=0.8118, auprc=0.5308
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.3333, f1=0.4000, auroc=0.7634, auprc=0.4740
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=0.6250, rec=0.4167, f1=0.5000, auroc=0.8306, auprc=0.7172
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.9597, auprc=0.9150
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7674
+precision: 0.6750
+recall: 0.3500
+f1_score: 0.4500
+auroc: 0.8495
+auprc: 0.6569
+END:  Tue Jun  3 15:10:06 2025
+START:  Tue Jun  3 15:11:22 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 15:11:34 2025
+START:  Tue Jun  3 15:14:05 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7674, prec=0.5556, rec=0.8333, f1=0.6667, auroc=0.8656, auprc=0.6629
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7554, auprc=0.4968
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.6977, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7527, auprc=0.4490
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7796, auprc=0.6638
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8372, prec=1.0000, rec=0.4167, f1=0.5882, auroc=0.9489, auprc=0.8889
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7488
+precision: 0.4111
+recall: 0.2667
+f1_score: 0.2796
+auroc: 0.8204
+auprc: 0.6323
+END:  Tue Jun  3 15:14:07 2025
+START:  Tue Jun  3 15:17:07 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7278
+precision: 0.3496
+recall: 0.2111
+f1_score: 0.2276
+auroc: 0.7576
+auprc: 0.5743
+END:  Tue Jun  3 15:17:14 2025
+START:  Tue Jun  3 15:22:04 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 15:22:16 2025
+START:  Tue Jun  3 15:25:09 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 15:25:21 2025
+START:  Tue Jun  3 15:26:25 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 2/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 3/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 4/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+
+=== Repeat 5/5 ===
+Fold 1/5
+Train:Val=136/35
+Fold 2/5
+Train:Val=137/34
+Fold 3/5
+Train:Val=137/34
+Fold 4/5
+Train:Val=137/34
+Fold 5/5
+Train:Val=137/34
+END:  Tue Jun  3 15:26:42 2025
+START:  Tue Jun  3 15:29:35 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7252
+precision: 0.0400
+recall: 0.0124
+f1_score: 0.0190
+auroc: 0.6858
+auprc: 0.4784
+END:  Tue Jun  3 15:29:40 2025
+START:  Tue Jun  3 15:30:40 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7231, auprc=0.4268
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7016, auprc=0.3880
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7608, auprc=0.4410
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8011, auprc=0.6191
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6909, auprc=0.5274
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7209
+precision: 0.0000
+recall: 0.0000
+f1_score: 0.0000
+auroc: 0.7355
+auprc: 0.4805
+END:  Tue Jun  3 15:30:43 2025
+START:  Tue Jun  3 15:31:35 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.6977, prec=0.4444, rec=0.3333, f1=0.3810, auroc=0.7419, auprc=0.4398
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7124, auprc=0.3976
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7715, auprc=0.4550
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8038, auprc=0.6229
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7674, prec=0.7500, rec=0.2500, f1=0.3750, auroc=0.7473, auprc=0.5964
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7256
+precision: 0.2389
+recall: 0.1167
+f1_score: 0.1512
+auroc: 0.7554
+auprc: 0.5024
+END:  Tue Jun  3 15:31:37 2025
+START:  Tue Jun  3 15:33:37 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.6977, prec=0.4444, rec=0.3333, f1=0.3810, auroc=0.7419, auprc=0.4398
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7124, auprc=0.3976
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7715, auprc=0.4550
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8038, auprc=0.6229
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7674, prec=0.7500, rec=0.2500, f1=0.3750, auroc=0.7473, auprc=0.5964
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7256
+precision: 0.2389
+recall: 0.1167
+f1_score: 0.1512
+auroc: 0.7554
+auprc: 0.5024
+END:  Tue Jun  3 15:33:40 2025
+START:  Tue Jun  3 15:36:15 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7098
+precision: 0.2244
+recall: 0.0898
+f1_score: 0.1122
+auroc: 0.6967
+auprc: 0.4754
+END:  Tue Jun  3 15:36:20 2025
+START:  Tue Jun  3 16:12:53 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7286
+precision: 0.5290
+recall: 0.4156
+f1_score: 0.4493
+auroc: 0.7533
+auprc: 0.5508
+END:  Tue Jun  3 16:15:26 2025
+START:  Tue Jun  3 16:17:01 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7334
+precision: 0.5313
+recall: 0.4458
+f1_score: 0.4679
+auroc: 0.7499
+auprc: 0.5446
+END:  Tue Jun  3 16:19:39 2025
+START:  Tue Jun  3 16:20:39 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7311
+precision: 0.5300
+recall: 0.4404
+f1_score: 0.4664
+auroc: 0.7519
+auprc: 0.5483
+END:  Tue Jun  3 16:22:51 2025
+START:  Tue Jun  3 16:23:56 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7263
+precision: 0.5289
+recall: 0.3738
+f1_score: 0.4236
+auroc: 0.7585
+auprc: 0.5528
+END:  Tue Jun  3 16:26:19 2025
+START:  Tue Jun  3 16:29:41 2025
+
+=== Repeat 1/5 ===
+
+=== Repeat 2/5 ===
+
+=== Repeat 3/5 ===
+
+=== Repeat 4/5 ===
+
+=== Repeat 5/5 ===
+
+=== Average Independent Test Metrics Over 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7488
+precision: 0.5971
+recall: 0.3500
+f1_score: 0.4289
+auroc: 0.8048
+auprc: 0.6541
+END:  Tue Jun  3 16:30:39 2025
+START:  Tue Jun  3 16:41:41 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7582
+precision: 0.6413
+recall: 0.2293
+f1_score: 0.3234
+auroc: 0.7794
+auprc: 0.5876
+END:  Tue Jun  3 16:42:11 2025
+START:  Tue Jun  3 16:43:49 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7487
+precision: 0.5853
+recall: 0.1471
+f1_score: 0.2265
+auroc: 0.7882
+auprc: 0.6014
+END:  Tue Jun  3 16:44:14 2025
+START:  Tue Jun  3 16:46:11 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+START:  Tue Jun  3 16:46:49 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.6744, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6022, auprc=0.3532
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.7419, auprc=0.6722
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8522, auprc=0.6786
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.7177, auprc=0.6223
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6667, auprc=0.4993
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7442
+precision: 0.6000
+recall: 0.1167
+f1_score: 0.1943
+auroc: 0.7161
+auprc: 0.5651
+END:  Tue Jun  3 16:46:59 2025
+START:  Tue Jun  3 16:48:47 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7500
+precision: 0.5675
+recall: 0.2782
+f1_score: 0.3524
+auroc: 0.7803
+auprc: 0.5941
+END:  Tue Jun  3 16:49:19 2025
+START:  Tue Jun  3 16:49:55 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7487
+precision: 0.5853
+recall: 0.1471
+f1_score: 0.2265
+auroc: 0.7882
+auprc: 0.6014
+END:  Tue Jun  3 16:50:22 2025
+START:  Tue Jun  3 16:52:03 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.6744, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6022, auprc=0.3532
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.7419, auprc=0.6722
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8522, auprc=0.6786
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.7177, auprc=0.6223
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6667, auprc=0.4993
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7442
+precision: 0.6000
+recall: 0.1167
+f1_score: 0.1943
+auroc: 0.7161
+auprc: 0.5651
+END:  Tue Jun  3 16:52:12 2025
+START:  Tue Jun  3 16:59:19 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7357
+precision: 0.5147
+recall: 0.1138
+f1_score: 0.1746
+auroc: 0.7359
+auprc: 0.5372
+END:  Tue Jun  3 16:59:43 2025
+START:  Tue Jun  3 17:00:48 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7589
+precision: 0.6513
+recall: 0.2840
+f1_score: 0.3755
+auroc: 0.7357
+auprc: 0.5556
+END:  Tue Jun  3 17:01:11 2025
+START:  Tue Jun  3 17:02:23 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7637
+precision: 0.6251
+recall: 0.3391
+f1_score: 0.4287
+auroc: 0.7341
+auprc: 0.5612
+END:  Tue Jun  3 17:02:47 2025
+START:  Tue Jun  3 17:05:25 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7637
+precision: 0.6251
+recall: 0.3391
+f1_score: 0.4287
+auroc: 0.7341
+auprc: 0.5612
+END:  Tue Jun  3 17:05:49 2025
+START:  Tue Jun  3 17:07:53 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.6977, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6290, auprc=0.3659
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8837, prec=1.0000, rec=0.5833, f1=0.7368, auroc=0.8199, auprc=0.7677
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.7339, auprc=0.6340
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.6586, auprc=0.5303
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7907, prec=0.7143, rec=0.4167, f1=0.5263, auroc=0.7796, auprc=0.6326
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7953
+precision: 0.7429
+recall: 0.3167
+f1_score: 0.4326
+auroc: 0.7242
+auprc: 0.5861
+END:  Tue Jun  3 17:08:00 2025
+START:  Tue Jun  3 17:09:48 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.6977, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.6290, auprc=0.3659
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8837, prec=1.0000, rec=0.5833, f1=0.7368, auroc=0.8199, auprc=0.7677
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.7339, auprc=0.6340
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.6586, auprc=0.5303
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7907, prec=0.7143, rec=0.4167, f1=0.5263, auroc=0.7796, auprc=0.6326
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7953
+precision: 0.7429
+recall: 0.3167
+f1_score: 0.4326
+auroc: 0.7242
+auprc: 0.5861
+END:  Tue Jun  3 17:09:56 2025
+START:  Tue Jun  3 17:11:52 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7720
+precision: 0.6939
+recall: 0.2253
+f1_score: 0.3293
+auroc: 0.7647
+auprc: 0.6316
+END:  Tue Jun  3 17:12:31 2025
+START:  Tue Jun  3 17:14:37 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7673
+precision: 0.7153
+recall: 0.1916
+f1_score: 0.2890
+auroc: 0.7657
+auprc: 0.6331
+END:  Tue Jun  3 17:15:19 2025
+START:  Wed Jun  4 09:19:59 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7673
+precision: 0.7153
+recall: 0.1916
+f1_score: 0.2890
+auroc: 0.7657
+auprc: 0.6331
+END:  Wed Jun  4 09:20:38 2025
+START:  Wed Jun  4 09:21:37 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7720
+precision: 0.6939
+recall: 0.2253
+f1_score: 0.3293
+auroc: 0.7647
+auprc: 0.6316
+END:  Wed Jun  4 09:22:21 2025
+START:  Wed Jun  4 09:23:13 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7451
+precision: 0.5533
+recall: 0.0898
+f1_score: 0.1475
+auroc: 0.7693
+auprc: 0.6356
+END:  Wed Jun  4 09:23:45 2025
+START:  Wed Jun  4 09:25:34 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.6801, auprc=0.5657
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.8790, auprc=0.7951
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.9113, auprc=0.8124
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7446, auprc=0.5528
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.8414, auprc=0.7123
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7488
+precision: 1.0000
+recall: 0.1000
+f1_score: 0.1802
+auroc: 0.8113
+auprc: 0.6877
+END:  Wed Jun  4 09:25:42 2025
+START:  Wed Jun  4 09:29:10 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7662
+precision: 0.7233
+recall: 0.1622
+f1_score: 0.2576
+auroc: 0.7396
+auprc: 0.6145
+END:  Wed Jun  4 09:29:54 2025
+START:  Wed Jun  4 09:30:23 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7721
+precision: 0.7619
+recall: 0.2129
+f1_score: 0.3154
+auroc: 0.7461
+auprc: 0.6190
+END:  Wed Jun  4 09:31:14 2025
+START:  Wed Jun  4 09:31:32 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7767
+precision: 0.7606
+recall: 0.2382
+f1_score: 0.3500
+auroc: 0.7454
+auprc: 0.6173
+END:  Wed Jun  4 09:32:33 2025
+START:  Wed Jun  4 09:35:51 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7721
+precision: 0.7619
+recall: 0.2129
+f1_score: 0.3154
+auroc: 0.7461
+auprc: 0.6190
+END:  Wed Jun  4 09:36:41 2025
+START:  Wed Jun  4 09:37:48 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7767
+precision: 0.7606
+recall: 0.2382
+f1_score: 0.3500
+auroc: 0.7454
+auprc: 0.6173
+END:  Wed Jun  4 09:38:48 2025
+START:  Wed Jun  4 09:42:20 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.6774, auprc=0.4801
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8414, auprc=0.7652
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7907, prec=0.8000, rec=0.3333, f1=0.4706, auroc=0.7930, auprc=0.6691
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7957, auprc=0.6308
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.8602, auprc=0.8231
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7674
+precision: 0.9600
+recall: 0.1833
+f1_score: 0.2928
+auroc: 0.7935
+auprc: 0.6737
+END:  Wed Jun  4 09:42:29 2025
+START:  Wed Jun  4 09:48:02 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7498
+precision: 0.6653
+recall: 0.1920
+f1_score: 0.2794
+auroc: 0.7537
+auprc: 0.5778
+END:  Wed Jun  4 09:48:41 2025
+START:  Wed Jun  4 09:51:37 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7580
+precision: 0.7487
+recall: 0.2542
+f1_score: 0.3484
+auroc: 0.7564
+auprc: 0.5812
+END:  Wed Jun  4 09:52:25 2025
+START:  Wed Jun  4 09:53:39 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7533
+precision: 0.6977
+recall: 0.2756
+f1_score: 0.3661
+auroc: 0.7601
+auprc: 0.5817
+END:  Wed Jun  4 09:54:31 2025
+START:  Wed Jun  4 09:55:58 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7533
+precision: 0.6977
+recall: 0.2756
+f1_score: 0.3661
+auroc: 0.7601
+auprc: 0.5817
+END:  Wed Jun  4 09:56:50 2025
+START:  Wed Jun  4 10:04:38 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7755
+precision: 0.7993
+recall: 0.2351
+f1_score: 0.3464
+auroc: 0.7426
+auprc: 0.6012
+END:  Wed Jun  4 10:05:04 2025
+START:  Wed Jun  4 10:05:35 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7721
+precision: 0.7270
+recall: 0.2902
+f1_score: 0.3985
+auroc: 0.7634
+auprc: 0.6293
+END:  Wed Jun  4 10:06:06 2025
+START:  Wed Jun  4 10:06:45 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7805
+precision: 0.7260
+recall: 0.3502
+f1_score: 0.4545
+auroc: 0.7641
+auprc: 0.6198
+END:  Wed Jun  4 10:07:14 2025
+START:  Wed Jun  4 10:09:31 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+START:  Wed Jun  4 10:09:53 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7907, prec=0.8000, rec=0.3333, f1=0.4706, auroc=0.9140, auprc=0.7700
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7876, auprc=0.6913
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7124, auprc=0.4881
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=0.8000, rec=0.3333, f1=0.4706, auroc=0.8145, auprc=0.7032
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.8898, auprc=0.7680
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7721
+precision: 0.8200
+recall: 0.2333
+f1_score: 0.3476
+auroc: 0.8237
+auprc: 0.6841
+END:  Wed Jun  4 10:10:01 2025
+START:  Wed Jun  4 10:13:38 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7766
+precision: 0.7827
+recall: 0.2307
+f1_score: 0.3405
+auroc: 0.7645
+auprc: 0.6118
+END:  Wed Jun  4 10:14:07 2025
+START:  Wed Jun  4 10:16:43 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7731
+precision: 0.7535
+recall: 0.2560
+f1_score: 0.3657
+auroc: 0.7749
+auprc: 0.6262
+END:  Wed Jun  4 10:17:18 2025
+START:  Wed Jun  4 10:20:11 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7791
+precision: 0.7737
+recall: 0.2769
+f1_score: 0.3886
+auroc: 0.7767
+auprc: 0.6288
+END:  Wed Jun  4 10:20:47 2025
+START:  Wed Jun  4 10:24:03 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.9059, auprc=0.7836
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.8140, prec=0.8333, rec=0.4167, f1=0.5556, auroc=0.8172, auprc=0.7213
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7442, prec=0.6667, rec=0.1667, f1=0.2667, auroc=0.7903, auprc=0.5501
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7907, prec=0.8000, rec=0.3333, f1=0.4706, auroc=0.7957, auprc=0.6632
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.8140, prec=1.0000, rec=0.3333, f1=0.5000, auroc=0.8226, auprc=0.7117
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7953
+precision: 0.8600
+recall: 0.3167
+f1_score: 0.4586
+auroc: 0.8263
+auprc: 0.6860
+END:  Wed Jun  4 10:24:11 2025
+START:  Wed Jun  4 10:28:12 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7696
+precision: 0.7567
+recall: 0.1796
+f1_score: 0.2816
+auroc: 0.7599
+auprc: 0.6188
+END:  Wed Jun  4 10:28:51 2025
+START:  Wed Jun  4 10:29:09 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7789
+precision: 0.8093
+recall: 0.2391
+f1_score: 0.3532
+auroc: 0.7582
+auprc: 0.6142
+END:  Wed Jun  4 10:30:01 2025
+START:  Wed Jun  4 10:32:17 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.8306, auprc=0.7164
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8414, auprc=0.7134
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7285, auprc=0.4505
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8280, auprc=0.7396
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7957, auprc=0.6521
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7488
+precision: 0.7000
+recall: 0.1167
+f1_score: 0.1965
+auroc: 0.8048
+auprc: 0.6544
+END:  Wed Jun  4 10:32:25 2025
+START:  Wed Jun  4 10:41:16 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.8306, auprc=0.7164
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8414, auprc=0.7134
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7285, auprc=0.4505
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8280, auprc=0.7396
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7957, auprc=0.6521
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7488
+precision: 0.7000
+recall: 0.1167
+f1_score: 0.1965
+auroc: 0.8048
+auprc: 0.6544
+END:  Wed Jun  4 10:41:24 2025
+START:  Wed Jun  4 10:46:13 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7907, prec=1.0000, rec=0.2500, f1=0.4000, auroc=0.8306, auprc=0.7164
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.7209, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.8414, auprc=0.7134
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7285, auprc=0.4505
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.8280, auprc=0.7396
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7957, auprc=0.6521
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7488
+precision: 0.7000
+recall: 0.1167
+f1_score: 0.1965
+auroc: 0.8048
+auprc: 0.6544
+END:  Wed Jun  4 10:46:20 2025
+START:  Wed Jun  4 10:46:57 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7369
+precision: 0.5333
+recall: 0.1102
+f1_score: 0.1761
+auroc: 0.6757
+auprc: 0.4690
+END:  Wed Jun  4 10:47:35 2025
+START:  Wed Jun  4 10:51:38 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7381
+precision: 0.5782
+recall: 0.1711
+f1_score: 0.2497
+auroc: 0.6919
+auprc: 0.4820
+END:  Wed Jun  4 10:52:20 2025
+START:  Wed Jun  4 10:56:36 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7345
+precision: 0.5909
+recall: 0.2040
+f1_score: 0.2866
+auroc: 0.6952
+auprc: 0.4923
+END:  Wed Jun  4 10:57:23 2025
+START:  Wed Jun  4 11:01:40 2025
+
+--- Testing Repeat 1/5 ---
+[Repeat 1] acc=0.7674, prec=0.7500, rec=0.2500, f1=0.3750, auroc=0.7769, auprc=0.5942
+
+--- Testing Repeat 2/5 ---
+[Repeat 2] acc=0.6977, prec=0.0000, rec=0.0000, f1=0.0000, auroc=0.7097, auprc=0.3700
+
+--- Testing Repeat 3/5 ---
+[Repeat 3] acc=0.7209, prec=0.5000, rec=0.0833, f1=0.1429, auroc=0.7312, auprc=0.4423
+
+--- Testing Repeat 4/5 ---
+[Repeat 4] acc=0.7674, prec=1.0000, rec=0.1667, f1=0.2857, auroc=0.7930, auprc=0.6812
+
+--- Testing Repeat 5/5 ---
+[Repeat 5] acc=0.7442, prec=1.0000, rec=0.0833, f1=0.1538, auroc=0.7554, auprc=0.6171
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+accuracy: 0.7395
+precision: 0.6500
+recall: 0.1167
+f1_score: 0.1915
+auroc: 0.7532
+auprc: 0.5410
+END:  Wed Jun  4 11:01:48 2025
+START:  Wed Jun  4 17:05:35 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7407
+precision: 0.5517
+recall: 0.4480
+f1_score: 0.4796
+auroc: 0.7115
+auprc: 0.5437
+END:  Wed Jun  4 17:06:57 2025
+START:  Thu Jun  5 12:39:29 2025
+
+=== Repeat 1/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 2/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 3/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 4/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Repeat 5/5 ===
+Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+
+=== Average Test Metrics Across 5 Repeats ===
+repeat: 3.0000
+fold: 3.0000
+accuracy: 0.7614
+precision: 0.6199
+recall: 0.3138
+f1_score: 0.4021
+auroc: 0.7429
+auprc: 0.5537
+END:  Thu Jun  5 12:41:24 2025
