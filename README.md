@@ -67,6 +67,11 @@ vhppipred_train_validate_test.ipynb
 python vhppipred_predict.py
 ```
 
+## Dataset and scripts for viral virulence prediction
+Dataset of Brierley's study was located at `./ViralVirulencePrediction/brierley_dataset_features/Virulence_data_Brierley_from_2019_plosbiology.xlsx`. Other files in `./ViralVirulencePrediction/brierley_dataset_features/` stored different fatures (PPI features, viral genome features, and viral proteome features) of viral samples in Brierley's study.
+
+Scripts for viral virulence prediction were located at `./ViralVirulencePrediction/scripts/`
+
 ## Reproduce figures in paper
 ```python
 FigureForPaper.ipynb
