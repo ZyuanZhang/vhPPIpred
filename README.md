@@ -55,6 +55,7 @@ We computed similarity between viral proteins and neighbor proteins with `./scri
 ```python
 data_process.ipynb
 ```
+The constructed dataset was located at `./dataset/data_fold10_info.csv`
 
 ## Training, validating and testing
 ```python
