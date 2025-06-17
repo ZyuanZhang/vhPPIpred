@@ -62,7 +62,7 @@ The constructed dataset was located at `./dataset/data_fold10_info.csv`
 vhppipred_train_validate_test.ipynb
 ```
 
-## Apply vhPPIpred to prediction
+## Here's an example: apply vhPPIpred to prediction
 ```python
 ## Take files in demo_dataset as an example.
 python vhppipred_predict.py
